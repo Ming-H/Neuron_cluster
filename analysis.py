@@ -1,11 +1,4 @@
 # -*- coding: utf-8 -*-
-#/***************************************************************************
-# * Copyright (c) 2016 ksrs.com, Inc. All Rights Reserved
-# **************************************************************************/
-# * @author Haoming
-# * @date 2017/01/13
-# * @modified 
-# * analysis cluster result
 
 import MySQLdb
 import pandas as pd
